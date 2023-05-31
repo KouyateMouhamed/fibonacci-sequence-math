@@ -1,0 +1,13 @@
+function out = fibona(n)
+
+if n==0 || n==1
+    out=0;
+else
+    out=[];
+    f1=0;
+    f2=1;
+    for i=1:n
+      
+    end
+    out();
+end
